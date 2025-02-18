@@ -1,4 +1,4 @@
-# Currency Exchange Challenge UI
+# Currency Denomination Challenge
 
 This project is a web-based user interface for a coding challenge solution related to currency exchange problems. It provides two interactive tabs that let users explore two distinct challenges:
 
@@ -29,8 +29,8 @@ This project is a web-based user interface for a coding challenge solution relat
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/thejessicafelts/currency-exchange-challenge.git
-   cd currency-exchange-challenge
+   git clone https://github.com/thejessicafelts/currency-denomination-challenge.git
+   cd currency-denomination-challenge
    ```
 
 2. **Open the Project**
