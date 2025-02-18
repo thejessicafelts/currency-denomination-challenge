@@ -29,8 +29,8 @@ This project is a web-based user interface for a coding challenge solution relat
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/currency-exchange-challenge-ui.git
-   cd currency-exchange-challenge-ui
+   git clone https://github.com/thejessicafelts/currency-exchange-challenge.git
+   cd currency-exchange-challenge
    ```
 
 2. **Open the Project**
